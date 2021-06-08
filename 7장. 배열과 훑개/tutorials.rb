@@ -28,5 +28,4 @@ puts '=========='
 
 favorites.pop
 puts favorites
-
 puts favorites.last
